@@ -1,6 +1,6 @@
 You want to play ? Follow these instrutions (This game will run correctly only on Laptop/Desktop):
 
-Select a .rar file
+Select the .rar file
 
 ---
 

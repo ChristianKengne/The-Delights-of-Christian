@@ -1,10 +1,11 @@
-You want to view my 3D models and animations ? Follow these instrutions:
+You want to play (This game will run correctly only on Laptop/Desktop) ? Follow these instrutions:
 
 Select a .rar file
 
 ---
 
-<img width="900" height="190" alt="image" src="https://github.com/user-attachments/assets/8c75719f-e611-43ea-b0bd-2fc751c3f5fc" />
+<img width="900" height="80" alt="image" src="https://github.com/user-attachments/assets/ddf18260-bb3b-4735-ac6e-a2bfb294048b" />
+
 
 ---
 
@@ -12,8 +13,9 @@ Click on the download icon
 
 ---
 
-<img width="900" height="92" alt="image" src="https://github.com/user-attachments/assets/3aff741f-a362-48f3-b5b0-33c6603488cc" />
+<img width="1175" height="112" alt="image" src="https://github.com/user-attachments/assets/bcfe696a-cdf4-4f61-8777-0ac4c7c7c743" />
+
 
 ---
 
-Extract the files, you will see a readme.md, a .blend file (3D files), videos files (for animations), and several images.
+Extract the files, run "The delights of Christian.html".

@@ -1,4 +1,4 @@
-You want to play (This game will run correctly only on Laptop/Desktop) ? Follow these instrutions:
+You want to play ? Follow these instrutions (This game will run correctly only on Laptop/Desktop):
 
 Select a .rar file
 
